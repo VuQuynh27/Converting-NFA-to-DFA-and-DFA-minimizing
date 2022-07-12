@@ -14,7 +14,7 @@ Author: Vu Thi Diem Quynh 20197100,Nguyen Van Manh 20195088, Ho Trung Cong 20194
 
 ## ***Modules***:
 
-* Automaton: a class-based module that represents a Deterministic Finite Automaton. Has a class attributes, a list of states, a list of alphabets, a string for the initial state and a list final states, and a transition table represented as a nested dictionary.
+* Automaton: a class-based module that represents a Finite Automaton. Has a class attributes, a list of states, a list of alphabets, a string for the initial state and a list final states, and a transition table represented as a nested dictionary.
 * ReadNFA: a functional-based module that contains functions for reading a jff file given its name, and returns an instance of a NFA given the information.
 * NFAtoDFA: a functional-based module that contains functions for converting NFA to complete DFA.
 * ReadFile: a functional-based module that contains functions for reading a jff file given its name, and returns an instance of a DFA given the information.
