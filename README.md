@@ -20,6 +20,7 @@ Author: Vu Thi Diem Quynh 20197100,Nguyen Van Manh 20195088, Ho Trung Cong 20194
 * ReadFile: a functional-based module that contains functions for reading a jff file given its name, and returns an instance of a DFA given the information.
 * Graph: a class-based module that represents a unweighted directed graph and BFS function.
 * BFS: a functional-based module that contains functions for traversing a DFA and simplifying it.
+* MinimizeDFA: a functional-based module that contains functions for merging nondistingguishable states of DFA and modify its states, start states, final states, and transtions.
 
 ## ***To run this program***
 
