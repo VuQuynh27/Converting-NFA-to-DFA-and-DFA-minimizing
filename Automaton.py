@@ -7,7 +7,7 @@ class Automaton(object):
         self.alphabet = alphabet
         self.tran = tran
 
-    # automation data frame
+    # automation data frame heheehe
     def automatonForm(self):
         automaton = {
             'state_start': self.state_start,
